@@ -12,3 +12,14 @@ This project will allow you to build and expand upon the concepts and skills you
 - Use LevelDB to persist the data.
 - Implement your application with Node.js
 - Test functionalities of the application
+
+## Testing
+
+Install libraries
+```
+npm install
+```
+Run the code
+```
+node simpleChain.js
+```
