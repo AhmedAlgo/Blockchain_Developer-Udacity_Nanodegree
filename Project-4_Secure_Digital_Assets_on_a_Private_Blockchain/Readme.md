@@ -1,0 +1,5 @@
+truffle version"Truffle v5.0.24"
+openzeppelin version "2.3.0"
+ERC-721 token name "chweezium"
+ERC-721 token symbol "USD"
+token address "0x4f0439ec676177c13d7f55294231412809a4a385"
